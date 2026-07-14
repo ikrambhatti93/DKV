@@ -1,0 +1,6 @@
+{
+  "name": "PromoSeguro",
+  "description": "Premium multi-language reconstructed website for Irene Pujol (DKV Exclusive Agent) featuring instant quote calculations, interactive service cards, and an advanced lead portal with Gemini AI inquiry analysis and smart draft generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
